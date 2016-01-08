@@ -12,6 +12,7 @@ import javafx.concurrent.Task;
 public class StringTesting {
     int x = 5;
     int y = 6;
+    //dkdkfkdfkjjdjfocbdd
 
     public class NielegalnaPozycja extends Exception{
     }
